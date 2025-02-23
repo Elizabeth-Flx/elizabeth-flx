@@ -13,9 +13,9 @@ I'm a Bioinformatician studying at [TUM](https://www.tum.de/en/) and [LMU](https
     - 🏁 Dithering Algorithms
 
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabeth-flx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&&hide=jupyter%20notebook" style="height: 200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabeth-flx&theme=tokyonight&hide_border=true" style="height: 200px;"/>
+<div style="display: flex; align-items: center; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabeth-flx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&&hide=jupyter%20notebook" style="height: 70%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabeth-flx&theme=tokyonight&hide_border=true" style="height: 70%;"/>
 </div>
 
 <!-- - 👯 I’m looking to collaborate on ...
