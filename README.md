@@ -6,7 +6,7 @@ I'm a Bioinformatician studying at [TUM](https://www.tum.de/en/) and [LMU](https
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on CUT&RUN data analysis project
+- 🔭 I’m currently working on a CUT&RUN data analysis project
 - 🌱 I enjoy working on 
     - 📊 Machine Learning & Data Science
     - 🧬 Omics Data Analysis
