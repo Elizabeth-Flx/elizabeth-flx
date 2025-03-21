@@ -6,6 +6,7 @@ I'm a Bioinformatician studying at [TUM](https://www.tum.de/en/) and [LMU](https
 
 <!-- Here are some ideas to get you started: -->
 
+- 💬 I speak English 🇬🇧, German 🇩🇪, and some Mandarin 🇨🇳
 - 🔭 I’m currently working on a CUT&RUN data analysis project
 - 🎓 I’m currently learning reinforcement learning
 - 🌱 I enjoy working on 
