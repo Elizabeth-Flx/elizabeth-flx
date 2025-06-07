@@ -1,4 +1,4 @@
-## Hi there. I'm Elizabeth (she/her), a Bioinformatician from Germnay 👋
+## Hi there. I'm Elizabeth, a Bioinformatician from Germnay 👋
 
 I'm a Bioinformatician studying at [TUM](https://www.tum.de/en/) and [LMU](https://www.lmu.de/en/), and working at the [TUM Institute for Microbiology, Immunology, and Hygiene](https://www.mri.tum.de/mikrobiologie).
 
